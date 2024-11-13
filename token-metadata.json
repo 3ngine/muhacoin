@@ -1,27 +1,9 @@
 {
-    "name": "MuhaCoin",
-    "symbol": "MUHA",
-    "description": "MuhaCoin, The best cryptocurrency out there!",
-    "image": "https://raw.githubusercontent.com/3ngine/muhacoin/main/logo.png",
-    "attributes": [
-        {
-            "trait_type": "Base",
-            "value": "Starshine"
-        }
-    ],
-    "properties": {
-        "files": [
-            {
-                "uri": "https://raw.githubusercontent.com/3ngine/muhacoin/main/logo.png",
-                "type": "image/jpeg"
-            }
-        ],
-        "category": "image",
-        "creators": [
-            {
-                "address": "CpoJTBxGfcdzSrbT2Cwa7mVvgQ9EodK9kad2pyhQcEg9",
-                "share": 100
-            }
-        ]
-    }
+  "name": "MuhaCoin",
+  "symbol": "MUHA",
+  "description": "MuhaCoin, The best memecoin!",
+  "image": "https://raw.githubusercontent.com/3ngine/muhacoin/main/logo.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Legendary" }
+  ]
 }
