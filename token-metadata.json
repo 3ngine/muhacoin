@@ -2,8 +2,5 @@
   "name": "MuhaCoin",
   "symbol": "MUHA",
   "description": "MuhaCoin, The best memecoin!",
-  "image": "https://raw.githubusercontent.com/3ngine/muhacoin/main/logo.png",
-  "attributes": [
-    { "trait_type": "Rarity", "value": "Legendary" }
-  ]
+  "image": "https://raw.githubusercontent.com/3ngine/muhacoin/main/logo.png"
 }
